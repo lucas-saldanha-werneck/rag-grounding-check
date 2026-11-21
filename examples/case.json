@@ -1,0 +1,8 @@
+{
+  "_note": "EXAMPLE DATA, invented for this demo. Not from any real company.",
+  "sources": {
+    "S1": "Refunds are issued within 14 days of the request. Orders above 500 EUR need manual approval.",
+    "S2": "Support is open Monday to Friday. The premium plan includes \"priority email support\" and a 99.5% uptime target."
+  },
+  "answer": "Refunds are issued within 30 days [S1]. Orders above 500 EUR need manual approval [S1]. The premium plan includes \"24/7 phone support\" [S2]. Uptime target is 99.5% [S2]. Weekend support is available. See the policy [S9]."
+}
